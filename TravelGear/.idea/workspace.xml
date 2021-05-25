@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5a706b2-b7ed-4674-bbd6-81a1cdc0201b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qUVvDYm1vWmQzbt9nhVeXo41A6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/store/static/store/images" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Study\TravelGear\store\static\store\images" />
+      <recent name="E:\Study\TravelGear\store\views" />
+      <recent name="E:\Study\TravelGear\store\models" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5a706b2-b7ed-4674-bbd6-81a1cdc0201b" name="Default Changelist" comment="" />
+      <created>1617134383886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617134383886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="43" key="#Notifications" timestamp="1617745295307">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="43" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1617745295307" />
+    <state x="119" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617672309463">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="119" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1617672309463" />
+    <state x="149" y="130" key="FileChooserDialogImpl" timestamp="1617141363103">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="149" y="130" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1617141363103" />
+    <state x="560" y="278" width="260" height="211" key="Github.ShareDialog" timestamp="1617745267882">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="560" y="278" width="260" height="211" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1617745267882" />
+    <state x="184" y="27" key="SettingsEditor" timestamp="1617745102380">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="27" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1617745102380" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1617745022635">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1617745022635" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/store/views/about.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
